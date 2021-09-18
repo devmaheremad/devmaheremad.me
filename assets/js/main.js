@@ -89,8 +89,6 @@
 
         // },
 
-
-
         wowActive: function() {
             new WOW().init();
         },
