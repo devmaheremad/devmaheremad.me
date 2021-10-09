@@ -6923,7 +6923,7 @@ input[type=submit]:hover {
 }
 
 .bg_image--11 {
-    background-image: url(../images/bg/bg-image-11.jpg)
+    background: url(../images/bg/bg_image--11.webp);
 }
 
 .bg_image--12 {
